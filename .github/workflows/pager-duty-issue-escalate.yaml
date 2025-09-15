@@ -1,8 +1,4 @@
-name: Escalate GitHub Issues
-
-on:
-  schedule:
-    - cron: "50 18 * * *"
+name: Escalate GitHub Issue
 
 
 jobs:
